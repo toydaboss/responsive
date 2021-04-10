@@ -1,2 +1,0 @@
-# responsive
-Zuri Responsive task
